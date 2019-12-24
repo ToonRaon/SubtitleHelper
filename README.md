@@ -8,3 +8,7 @@
 
 자동으로 한 줄씩 읽어서 클립보드에 복사합니다.
 이전, 다음 버튼을 이용하여 이전 줄, 다음 줄로 이동할 수 있습니다.
+
+## 다운로드
+https://github.com/ToonRaon/SubtitleHelper/releases
+SubtitleHelper.zip를 다운로드 받은 후 압축 해제하시면 됩니다.
